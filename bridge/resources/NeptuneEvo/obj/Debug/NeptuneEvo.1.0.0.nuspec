@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NeptuneEvo</id>
+    <version>1.0.0</version>
+    <authors>NeptuneEvo</authors>
+    <owners>NeptuneEvo</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <copyright>Creative Commons by-nc-nd 4.0</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="NeptuneEvoSDK" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="MySqlConnector" version="0.54.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SQLite.Core" version="1.0.110" exclude="Build,Analyzers" />
+        <dependency id="System.Memory" version="4.5.3" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.CompilerServices.Unsafe" version="4.6.0" exclude="Build,Analyzers" />
+        <dependency id="websocketsharp.core" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Windows ST\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll" target="lib\netcoreapp2.0\NeptuneEvo.dll" />
+  </files>
+</package>

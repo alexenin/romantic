@@ -1,0 +1,12 @@
+body {
+    background: url('tablet.png') no-repeat center center fixed;
+    background-size: 80%;
+}
+
+.tab   {
+    overflow: hidden;
+    padding-top: 154px;
+    padding-left: 246px;
+    width: 1410px;
+    height: 762px;
+}

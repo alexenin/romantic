@@ -1,10 +1,8 @@
 bridge/runtime
 *.txt
-CustomCharacters
 maps
 packages
 plugins
-dotnet
 node_modules
 vs_project
 adminCmds.pdf
@@ -19,6 +17,5 @@ ragemp-server.exe
 444
 .vs
 .dist
-BugTrap-x64.dll
 gta5-multiplayer.sql
 linux_x64-v3.tar.gz
